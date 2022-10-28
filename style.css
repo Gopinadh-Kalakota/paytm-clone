@@ -1,0 +1,503 @@
+*{
+	margin: 0%;
+}
+.navigation{
+	padding: 1%;
+	font-family: 'Poppins', sans-serif;
+	font: bold;
+}
+.navigation img{
+	vertical-align: middle;
+}
+.paytmlogo{
+	margin: 0% 4.5% 0% 3%;
+}
+.navigation a{
+	color: black;
+	font-size: 13px;
+	text-decoration: none;
+	padding: 1.8%;
+	margin-left: 1%;
+}
+#signin{
+	margin-left: 8%;
+	background-color: #00baf2;
+	color: white;
+	padding: 0.5%;
+	border-radius: 25px;
+	text-align: center;
+}
+.wallet{
+	background-color: rgba(239, 239, 239, 0.8);
+	padding: 10px;
+	text-align: center;
+	font-family: 'poppins',sans-serif;
+	font-size: 14px;
+}
+.sec1div1{
+	display: flex;
+	justify-content: space-between;
+	padding: 7% 0% 10% 8%;
+	font-family: 'poppins',sans-serif;
+}
+.India{
+	font-size: 55px;
+	margin-top: 40px;
+	padding-bottom: 3%;
+}
+.recharge{
+	font-size: 20px;
+	margin-top: 1%;
+	padding-top: 0.5% ;
+}
+.app{
+	border: 1px solid black;
+	background-color: black;
+	color: white;
+	width: 50%;
+	padding: 3% 0.5% 3% 3%;
+	border-radius: 23px;
+	text-align: center;
+	margin-top: 35px;
+	font-size: 13.5px;
+}
+.app hover{
+	background-color: white;
+	color: black;
+
+}
+.sec2div1{
+	justify-content: space-evenly;
+	display: flex;
+	font-family:' Poppins',sans-serif;
+	padding-top: 3%;
+}
+.bills{
+	font-family: 'poppins',sans-serif;
+	margin-top: 0%;
+	font-size: 37px;
+	padding: 45%;
+}
+.sec2{
+	background-color: deepskyblue;
+	color: white;
+	padding: 5%;
+}
+.sec3div1{
+	justify-content: space-evenly;
+	display: flex;
+	font-family:' Poppins',sans-serif;
+	padding-top: 3%;
+}
+.sec3{
+	background-color: #0f4a8a;
+	color: white;
+	padding: 5%;
+}
+.payment{
+	background-color: rgba(239, 239, 239, 0.8);
+	padding: 2% 49% 3% 0%;
+	text-align: center;
+	font-family: 'poppins',sans-serif;
+	font-size: 40px;
+	}
+.sec4{
+	padding: 7%;
+	font-family: 'Poppins', sans-serif;
+	text-decoration: none;
+	background-color: rgba(239, 239, 239, 0.6);
+	border: 1px;
+	
+}
+.sec4div1{
+	display: flex;
+	justify-content: space-between;
+	border: 1px;
+	background-color: white;
+	border-radius: 10px;
+	padding: 10%;
+
+}
+.sec4child1{
+	display: flex;
+}
+.sec4 a{
+	display: flex;
+	text-decoration: none;
+	color: black;
+	padding: 0%;
+}
+.sec4div2{
+	border: white;
+}
+.instrument{
+	font-size: 40px;
+}
+.way{
+	font-size: 40px;
+	margin-top: 40px;
+}
+.load{
+	font-size: 15px;
+	margin-bottom: 5%;
+	margin-top: 10px;
+}
+.sec5{
+	padding: 7%;
+	font-family: 'Poppins', sans-serif;
+	text-decoration: none;
+	background-color: rgba(239, 239, 239, 0.6);
+	border: 1px;
+}
+.sec5div1{
+	display: flex;
+	justify-content: space-between;
+	border: 1px;
+	background-color: white;
+	border-radius: 10px;
+	padding: 10%;
+}
+.sec4child1{
+	display: flex;
+	text-decoration: none;
+	background-color: white;
+	color: black;
+}
+.sec6div1{
+	display: flex;
+	justify-content: space-between;
+	border: 1px;
+	background-color: white;
+	border-radius: 10px;
+	padding: 10%;
+	margin-top: 3%;
+}
+.sec4child1{
+	display: flex;
+	text-decoration: none;
+	background-color: white;
+	color: black;
+}
+.learn{
+	border: 1px solid black;
+	background-color: #042e6f;
+	color: white;
+	width: 50%;
+	padding: 1%;
+	border-radius: 25px;
+	text-align: center;
+	margin-top: 35px;
+	font-size: 13.5px;
+}
+.learn:hover{
+	background-color: #00baf2;
+	color: white;
+}
+.sec7{
+	padding: 7%;
+	justify-content: space-between;
+	font-family: 'Poppins', sans-serif;
+	text-decoration: none;
+	background-color: rgba(239, 239, 239, 0.6);
+	border: 1px;
+	display: flex;
+	font-size: 9px;
+}
+.sec7div1{
+	justify-content: space-between;
+	border: 1px solid rgba(239, 239, 239, 0.6);
+	background-color: white;
+	border-radius: 10px;
+	padding: 5% 5% 10% 4%;
+	width: 50%;
+	margin: -12% -0.5% -5% 0.10%;
+}
+.sec7child1{
+	margin-top: 0px;	
+}
+.sec7div2{
+	justify-content: space-between;
+	border: 1px solid rgba(239, 239, 239, 0.6);
+	background-color: white;
+	border-radius: 10px;
+	padding: 5% 5% 10% 4%;
+	width: 50%;
+	margin: -12% 0% -5% 5%;
+}
+.unlimited{
+	font-size: 30px;
+	margin-top: 20px;
+}
+.hdfc{
+	font-size: 15px;
+	margin-bottom: 1%;
+	margin-top: 10%;
+}
+.most{
+	font-size: 30px;
+	margin-top: 20px;
+}
+.sbi{
+	font-size: 15px;
+	margin-bottom: 25px;
+	margin-top: 10px;
+}
+.sec8{
+	padding: 7%;
+	font-family: 'Poppins', sans-serif;
+	text-decoration: none;
+	background-color: white;
+	border: 1px;
+	margin: 0% 0% 0% 0%;
+}
+.sec8div1{
+	display: flex;
+	justify-content: space-between;
+	border: 1px;
+	background-color: white;
+	border-radius: 10px;
+}
+.sec8div2{
+	justify-content: space-between;
+	border: 1px;
+	background-color: white;
+	border-radius: 10px;
+
+}
+.financial{
+	font-size: 45px;
+	margin-bottom: 5%;
+}
+.sincere{
+	font-size: 30px;
+	margin-top: 3%;
+}
+.secure{
+	font-size: 20px;
+	margin-top: 3%;
+}
+.sec9{
+	padding-top: -2%;
+	font-family: 'Poppins', sans-serif;
+	text-decoration: none;
+	background-image: url(images/39 paytm.png);
+	border: 1px;
+}
+.sec9div1{
+	display: flex;
+	justify-content: space-between;
+	border: 1px;
+	background-color: white;
+	border-radius: 10px;
+	padding: 10%;
+	margin: 0% -0.5% -10% 0.10%;
+
+}
+.sec4 a{
+	display: flex;
+	text-decoration: none;
+	color: black;
+	padding: 0%;
+}
+.term{
+	font-size: 30px;
+	margin: 10% 0% -5% 5%;
+	padding-top: 1%;
+}
+.Investing{
+	font-size: 23px;
+	margin-top: 5%;
+	padding: 5%;
+}
+.learn{
+	border: 1px solid black;
+	background-color: #042e6f;
+	color: white;
+	width: 25%;
+	padding: 1%;
+	border-radius: 25px;
+	text-align: center;
+	margin-bottom: 3%;
+	font-size: 13.5px;
+}
+.learn:hover{
+	background-color: #00baf2;
+	color: white;
+}	
+.sec10{
+	padding: 7%;
+	font-family: 'Poppins', sans-serif;
+	text-decoration: none;
+	background-color: white;
+	border: 1px;
+	padding: 5% 3% 5% 1%;
+}
+.sec10div1{
+	display: flex;
+	justify-content: space-between;
+	border: 1px;
+	background-color: white;
+	border-radius: 10px;
+	padding: 10%;
+}
+.sec4 a{
+	display: flex;
+	text-decoration: none;
+	color: black;
+	padding: 0%;
+}
+.easy{
+	font-size: 40px;
+	margin-top: 5%;
+	padding-left: 2%;
+}
+.time{
+    font-size: 20px;
+    margin-top: 5%;
+	
+}
+.learn{
+	border: 1px solid black;
+	background-color: #042e6f;
+	color: white;
+	width: 25%;
+	padding: 1%;
+	border-radius: 25px;
+	text-align: center;
+	margin-bottom: 3%;
+	font-size: 13.5px;
+}
+.learn:hover{
+	background-color: #00baf2;
+	color: white;
+}
+.sec11{
+	padding-top: -2%;
+	font-family: 'Poppins', sans-serif;
+	text-decoration: none;
+	background-color: rgba(239, 239, 239, 0.6);
+	border: 1px;
+}
+.sec11div1{
+	display: flex;
+	justify-content: space-between;
+	border: 1px;
+	background-color: rgba(239, 239, 239, 0.6);;
+	border-radius: 10px;
+	padding: 5%;
+
+}
+.personal{
+	font-size: 30px;
+	margin-top: 12%;
+}
+.offers{
+	font-size: 23px;
+	margin-top: 13%;
+}
+.40{
+	margin-bottom: 11%;
+}
+.learn{
+	border: 1px solid black;
+	background-color: #042e6f;
+	color: white;
+	width: 25%;
+	padding: 1%;
+	border-radius: 25px;
+	text-align: center;
+	margin-top: 14%;
+	font-size: 13.5px;
+}
+.learn:hover{
+	background-color: #00baf2;
+	color: white;
+}
+
+
+
+
+
+@media (max-width: 390px){
+	.navigation a{
+		font-size: 1px;
+}
+#signin{
+	margin-left: 1%;
+	}
+	.wallet{
+		font-size: 7px;
+	}
+	.India{
+		font-size: 10px;
+	}
+	.app{
+		font-size: 4px;
+	}	
+	.India+p{
+		font-size: 8px;
+	}
+	.recharge{
+		font-size: 4px;
+	}
+	.instrument{
+		font-size: 8px;
+	}
+	.way{
+		font-size: 6px;
+	}
+	.load{
+		font-size: 4px;
+	}
+	.app{
+		font-size: 4px;
+	}
+	.sec4child1{
+		font-size: 4px;
+	}
+	.learn{
+		font-size: 4px;
+	}
+	.unlimited{
+		font-size: 4px;
+	}
+	.hdfc{
+		font-size: 4px;
+	}
+	.most{
+		font-size: 4px;
+	}
+	.sbi{
+		font-size: 4px;
+	}
+	.financial{
+		font-size: 8px;
+	}
+	.sincere{
+		font-size: 6px;
+	}
+	.secure{
+		font-size: 4px;
+	}
+	.term{
+		font-size: 6px;
+	}
+	.Investing{
+		font-size: 4px;
+	}
+	.easy{
+		font-size: 8px;
+	}
+	.time{
+		font-size: 4px;
+	}
+	.personal{
+		font-size: 8px;
+	}
+	.offers{
+		font-size: 4px;
+	}
+	.learn{
+		font-size: 4px;
+	}
+}	
